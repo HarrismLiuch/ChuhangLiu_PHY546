@@ -30,3 +30,5 @@ ax = plt.gca()
 ax.imshow(inside, extent=[-2, 2, -2, 2],cmap='viridis')
 f1 = plt.gcf()
 f1.set_size_inches(8,8)
+	
+plt.savefig("Mandelbrot_set.png")
