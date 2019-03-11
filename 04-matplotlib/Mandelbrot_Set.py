@@ -1,3 +1,6 @@
+import matplotlib.pyplot as plt
+import numpy as np
+
 # Mandelbrot_Set.py
 __author__ = "Chuhang Liu"
 
